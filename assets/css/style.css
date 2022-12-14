@@ -66,9 +66,10 @@ fieldset {
 }
 
 footer {
-    display: block;
+    background-color: #A39EE6;
     position:absolute;
+    left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #A39EE6;
+    height: 150px;
 }
